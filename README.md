@@ -1,8 +1,6 @@
 # Simple GitHub Commits Bot
 
-![Go](https://shields.io)
-![Git](https://shields.io)
-![License](https://shields.io)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 
 A lightweight, automated command-line tool written in Go designed to keep your GitHub contribution graph active and green.
 
@@ -53,9 +51,9 @@ Your local .env file structure must contain the tracking variables detailed belo
 
 ```env
 GITHUB_TOKEN=your_personal_access_token
-OWNER=BaxQC
-REPO=testrepo
-FILE_PATH=test.txt
+OWNER=your_github_username
+REPO=your_github_repo # example: testrepo
+FILE_PATH=your_file_path # example: test.txt
 BRANCH=main
 ```
 
