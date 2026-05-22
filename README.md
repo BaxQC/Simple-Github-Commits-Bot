@@ -10,7 +10,7 @@ A lightweight, automated command-line tool written in Go designed to keep your G
 
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/BaxQC/Simple-Github-Commits-Bot
 cd Simple-Github-Commits-Bot
 
 # Set up environment configuration
