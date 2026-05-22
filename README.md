@@ -1,18 +1,12 @@
-# Simple GitHub Commits Bot
+# 🤖 Simple GitHub Commits Bot
 
-<p align="center">
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="License" />
-</p>
+![Go](https://shields.io) ![Git](https://shields.io) ![License](https://shields.io)
 
-<p align="center">
-  A lightweight, automated command-line tool written in Go designed to keep your GitHub contribution graph active and green.
-</p>
+A lightweight, automated command-line tool written in Go designed to keep your GitHub contribution graph active and green.
 
 ---
 
-### Quick Start
+### 🚀 Quick Start
 
 ```bash
 # Clone the repository
@@ -28,15 +22,13 @@ go run main.go
 
 ---
 
-### Activity Preview
+### 📈 Activity Preview
 
-<p align="center">
-  <img src="https://giphy.com" alt="GitHub Activity Tracking Animation" width="600" />
-</p>
+![GitHub Activity Tracking Animation](https://giphy.com)
 
 ---
 
-### Core Features
+### ✨ Core Features
 
 * **Go-Powered**: Fast, compiled, and highly efficient runtime execution.
 * **Environment Configuration**: Easy, secure setup using local `.env` variables.
@@ -45,7 +37,7 @@ go run main.go
 
 ---
 
-### Installation & Developer Setup
+### ⚙️ Installation & Developer Setup
 
 If you are developing, testing, or building the package compilation from scratch, initialize the modules and download your project dependencies:
 
@@ -59,7 +51,7 @@ go get ://github.com
 
 ---
 
-### Configuration Parameters
+### 🔑 Configuration Parameters
 
 Your local `.env` file structure must contain the tracking variables detailed below:
 
@@ -73,6 +65,6 @@ BRANCH=main
 
 ---
 
-### License
+### 📄 License
 
 This repository is completely open-source and distributed under the terms of the [MIT License](https://github.com).
