@@ -1,12 +1,14 @@
-# 🤖 Simple GitHub Commits Bot
+# Simple GitHub Commits Bot
 
-![Go](https://shields.io) ![Git](https://shields.io) ![License](https://shields.io)
+![Go](https://shields.io)
+![Git](https://shields.io)
+![License](https://shields.io)
 
 A lightweight, automated command-line tool written in Go designed to keep your GitHub contribution graph active and green.
 
 ---
 
-### 🚀 Quick Start
+### Quick Start
 
 ```bash
 # Clone the repository
@@ -22,22 +24,16 @@ go run main.go
 
 ---
 
-### 📈 Activity Preview
+### Core Features
 
-![GitHub Activity Tracking Animation](https://giphy.com)
-
----
-
-### ✨ Core Features
-
-* **Go-Powered**: Fast, compiled, and highly efficient runtime execution.
-* **Environment Configuration**: Easy, secure setup using local `.env` variables.
-* **Character Tracking**: Processes text characters step-by-step with live terminal status logs.
-* **Zero Overhead**: Minimal memory footprint with no bulky external runtime platforms.
+* Go-Powered: Fast, compiled, and highly efficient runtime execution.
+* Environment Configuration: Easy, secure setup using local .env variables.
+* Character Tracking: Processes text characters step-by-step with live terminal status logs.
+* Zero Overhead: Minimal memory footprint with no bulky external runtime platforms.
 
 ---
 
-### ⚙️ Installation & Developer Setup
+### Installation and Developer Setup
 
 If you are developing, testing, or building the package compilation from scratch, initialize the modules and download your project dependencies:
 
@@ -51,9 +47,9 @@ go get ://github.com
 
 ---
 
-### 🔑 Configuration Parameters
+### Configuration Parameters
 
-Your local `.env` file structure must contain the tracking variables detailed below:
+Your local .env file structure must contain the tracking variables detailed below:
 
 ```env
 GITHUB_TOKEN=your_personal_access_token
@@ -65,6 +61,6 @@ BRANCH=main
 
 ---
 
-### 📄 License
+### License
 
-This repository is completely open-source and distributed under the terms of the [MIT License](https://github.com).
+This repository is completely open-source and distributed under the terms of the MIT License.
