@@ -40,7 +40,7 @@ If you are developing, testing, or building the package compilation from scratch
 go mod init github-bot
 
 # Install the configuration handling dependency
-go get ://github.com
+go get ://github.com/joho/godotenv
 ```
 
 ---
